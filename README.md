@@ -1,4 +1,4 @@
-# QR Code Detection
+# QR Code Detector
 Use [QR Code Detection](to_be_added) to detect and decode QR Code(s) in a real-time camera stream.
 
 ## Requirements
