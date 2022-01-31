@@ -1,5 +1,5 @@
 # QR Code Detector
-Use [QR Code Detection](to_be_added) to detect and decode QR Code(s) in a real-time camera stream.
+Use [QR Code Detection](https://alwaysai.co/docs/edgeiq_api/qrcode_detection.html) to detect and decode QR Code(s) in a real-time camera stream.
 
 ## Requirements
 * [alwaysAI account](https://alwaysai.co/auth?register=true)
